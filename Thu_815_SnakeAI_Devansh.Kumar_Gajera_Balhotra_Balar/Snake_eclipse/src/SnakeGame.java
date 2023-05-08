@@ -17,6 +17,7 @@ public class SnakeGame {
 		Scanner sc = new Scanner(System.in);
 		password = sc.nextLine();
 		
+		
 		new MenuBar();
 
 	}
